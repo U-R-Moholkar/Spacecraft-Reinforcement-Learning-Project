@@ -36,7 +36,7 @@ For a detailed analysis, refer to the **published paper**:
 ## 🔒 Access to Code  
 The source code for this project is **private**. If you're a recruiter or researcher interested in this work, feel free to **reach out** for discussion.  
 
-📩 **Contact:** [utkarshmoholkar.research@gmail.com] | [https://www.linkedin.com/in/utkarsh-moholkar-6a33701a1/]  
+📩 **Contact:** [Email][utkarshmoholkar.research@gmail.com] | [LinkedIn][https://www.linkedin.com/in/utkarsh-moholkar-6a33701a1/]  
 
 ---
 
