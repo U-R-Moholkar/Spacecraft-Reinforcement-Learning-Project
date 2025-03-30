@@ -24,12 +24,9 @@ This project explores **Reinforcement Learning (RL)** to autonomously land a spa
 ## 🎥 Project Demo  
 [![Watch the Video](https://img.youtube.com/vi/UE4T30jrtrU/0.jpg)](https://www.youtube.com/watch?v=UE4T30jrtrU)  
 
-## 📸 Visuals  
-### **Success Rate Over Time**  
-![Success Rate Graph](graphs/)  
-
-### **Reward Trends**  
-![Reward Graph](graphs/)  
+## 📄 Research Paper  
+For a detailed analysis, refer to the **published paper**:  
+📜 **[Read on International Publs](https://internationalpubls.com/index.php/anvi/article/view/4126)**
 
 ## 📝 Key Learnings  
 - **SARSA improved landing stability** compared to random movements.  
