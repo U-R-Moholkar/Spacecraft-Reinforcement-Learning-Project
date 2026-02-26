@@ -22,8 +22,18 @@ This project explores **Reinforcement Learning (RL)** to autonomously land a spa
 | **Policy Gradient** | 89%     | 7679.34    | 21.58s           |
 
 ## 🎥 Project Demo  
-[![Watch the Video](https://img.youtube.com/vi/UE4T30jrtrU/0.jpg)](https://www.youtube.com/watch?v=UE4T30jrtrU)  
-(https://youtu.be/LhcvsXKkdiw)
+[![Watch the Video](https://img.youtube.com/vi/UE4T30jrtrU/0.jpg)](https://www.youtube.com/watch?v=UE4T30jrtrU)
+
+
+## 🎬 Landing Pad Detection + Reinforcement Learning
+
+<p align="center">
+  <a href="https://youtu.be/LhcvsXKkdiw">
+    <img src="https://img.youtube.com/vi/LhcvsXKkdiw/maxresdefault.jpg" width="750">
+  </a>
+</p>
+
+
 
 ## 📄 Research Paper  
 For a detailed analysis, refer to the **published paper**:  
