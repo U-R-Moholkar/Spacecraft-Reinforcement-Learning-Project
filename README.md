@@ -23,6 +23,7 @@ This project explores **Reinforcement Learning (RL)** to autonomously land a spa
 
 ## 🎥 Project Demo  
 [![Watch the Video](https://img.youtube.com/vi/UE4T30jrtrU/0.jpg)](https://www.youtube.com/watch?v=UE4T30jrtrU)  
+(https://youtu.be/LhcvsXKkdiw)
 
 ## 📄 Research Paper  
 For a detailed analysis, refer to the **published paper**:  
